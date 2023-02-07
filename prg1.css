@@ -2,5 +2,21 @@ body{
     text-align: center;
     background-color:bisque;
     font-style: italic;
-
+}
+a:hover{
+    text-decoration: none;
+    color: brown;
+}
+:any-link{
+    text-decoration: dashed;
+    color:black;
+}
+table{
+    text-align: center;
+}
+tr{
+    text-align: center;
+}
+th{
+    text-align: center;
 }
